@@ -1,0 +1,14 @@
+# Talend compiled output
+*.class
+.JETEmitters/
+
+# Talend temp files
+temp/
+*/temp/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

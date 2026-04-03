@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_agpBgNHdEfC5Oa4vVWpF0Q" name="Conexion_SIO" id="_LFrIUNHdEfC5Oa4vVWpF0Q" label="Conexion_SIO" dataPackage="_zj_xQNHdEfC5Oa4vVWpF0Q" DatabaseType="PostgreSQL" DriverClass="org.postgresql.Driver" URL="jdbc:postgresql://localhost:5432/Sio_DB?" dbVersionString="V9_X" Port="5432" Username="postgres" Password="enc:system.encryption.key.v1:zMI55V4YZSse7+LDv3UTgltTPAFU5S45yowYyYwEbnz1IRmC" ServerName="localhost" DatasourceName="" FileFieldName="" SID="Sio_DB" SqlSynthax="" StringQuote="" NullChar="" DbmsId="postgres_id" ProductId="POSTGRESQL" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="public">
+    <taggedValue xmi:id="_agsE0NHdEfC5Oa4vVWpF0Q" tag="Is Conn Need Reload" value="true"/>
+    <taggedValue xmi:id="_ahU-ANHdEfC5Oa4vVWpF0Q" tag="package filter" value=""/>
+    <taggedValue xmi:id="_ahy4ENHdEfC5Oa4vVWpF0Q" tag="Status" value=""/>
+    <taggedValue xmi:id="_ahy4EdHdEfC5Oa4vVWpF0Q" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_ahy4EtHdEfC5Oa4vVWpF0Q" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_ahy4E9HdEfC5Oa4vVWpF0Q" tag="Description" value=""/>
+    <taggedValue xmi:id="_ahy4FNHdEfC5Oa4vVWpF0Q" tag="Author" value=""/>
+    <taggedValue xmi:id="_ahy4FdHdEfC5Oa4vVWpF0Q" tag="otherParameter"/>
+    <taggedValue xmi:id="_zi8oYNHdEfC5Oa4vVWpF0Q" tag="DB ProductName" value="PostgreSQL"/>
+    <taggedValue xmi:id="_zi8oYdHdEfC5Oa4vVWpF0Q" tag="DB ProductVersion" value="17.6"/>
+    <taggedValue xmi:id="_zi8oYtHdEfC5Oa4vVWpF0Q" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_agsE0dHdEfC5Oa4vVWpF0Q" key="CONN_PARA_KEY_USERNAME" value="postgres"/>
+    <parameters xmi:id="_rfmdANHdEfC5Oa4vVWpF0Q" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_zj_xQNHdEfC5Oa4vVWpF0Q" name="Sio_DB" dataManager="_agpBgNHdEfC5Oa4vVWpF0Q">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_zj_xQdHdEfC5Oa4vVWpF0Q" name="public"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>
